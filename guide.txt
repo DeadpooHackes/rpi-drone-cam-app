@@ -1,0 +1,20 @@
+link connect like ngrok and cloudfalre
+
+####################
+linux
+
+
+ngrok tcp 5001
+#####################
+windows
+
+
+.\ngrok tcp 5001
+#####################
+rpi camera clite errer solve code
+
+
+lsof /dev/video0
+kill -9 <PID>
+
+
